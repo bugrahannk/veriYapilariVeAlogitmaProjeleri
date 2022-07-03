@@ -2,8 +2,6 @@
 * https://app.patika.dev/courses/veri-yapilari-ve-algoritmalar/insertion-sort-proje
 * Profil: https://app.patika.dev/bugrahannk
 
-_____________________________________________
-
 
 ```
 [22,27,16,2,18,6] -> Insertion Sort
@@ -50,12 +48,11 @@ Average Case
 
 ```
 
+_____________________________________________
 
 # Merge Sort
 * https://app.patika.dev/courses/veri-yapilari-ve-algoritmalar/merge-sort-proje
 * Profil: https://app.patika.dev/bugrahannk
-
-_____________________________________________
 
 
 ```
@@ -77,4 +74,20 @@ f)[8,11,12,16,21,22]
 (2^x = n)'den x=log(n) defa yapılır. Her bir adımın time complexity değeri O(n) olduğu için genel ifade "O(nlog(n))" olmalı.
 ```
 
+_____________________________________________
 
+# Binary Search Tree 
+* https://app.patika.dev/courses/veri-yapilari-ve-algoritmalar/binary-search-tree-proje
+* Profil: https://app.patika.dev/bugrahannk
+
+```
+[7, 5, 1, 8, 3, 6, 0, 9, 4, 2] 
+```
+
+```
+7 Köktür. Solunda 5, sağında 8 var.
+5'in solunda 1, sağında 6 var.
+8'in solu boş, sağında 9 var.
+1'in solunda 0, sağında 3 var.
+3'ün solunda 2, sağında 4 var.
+```
